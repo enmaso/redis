@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+MAINTAINER Enmaso Development Team
 
 RUN \
   cd /tmp && \
